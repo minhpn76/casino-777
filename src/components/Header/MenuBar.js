@@ -66,7 +66,7 @@ function MenuBar() {
       <AppBar position="fixed">
         <Toolbar>
           <Typography variant="h6" className={classes.title}>
-            Slot Machine
+            Lucky Days
           </Typography>
           {!username ? (
             <Auth login={login} />

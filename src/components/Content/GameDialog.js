@@ -52,7 +52,7 @@ function GameDialog({ open, setOpen }) {
       onClose={handleGameClose}
       aria-labelledby="form-dialog-title"
     >
-      <DialogTitle id="form-dialog-title">SLOT MACHINE</DialogTitle>
+      <DialogTitle id="form-dialog-title">Lucky Days</DialogTitle>
       <DialogContent>
         <Slots slots={spinnedSlots} />
         <DialogContentText>

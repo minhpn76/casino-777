@@ -21,7 +21,7 @@ export default function Footer() {
     <AppBar position="fixed" color="primary" className={classes.appBar}>
       <Toolbar>
         <Typography variant="body2" color="inherit">
-          Copyright © Slot Machine 2021. Karafizi Arthur
+          Copyright © github 2022. Edward PN.
         </Typography>
       </Toolbar>
     </AppBar>
