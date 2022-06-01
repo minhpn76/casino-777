@@ -1,5 +1,5 @@
 const Casino = artifacts.require("Casino");
 
 module.exports = function (deployer) {
-  deployer.deploy(Casino, 10000);
+  deployer.deploy(Casino, 100000000);
 };
